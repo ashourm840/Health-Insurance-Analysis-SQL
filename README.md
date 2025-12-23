@@ -20,6 +20,10 @@ The project uses a dataset named `enhanced_health_insurance_claims.csv`. It cont
 - Provider Info:Specialty, Location.
 - Financials: ClaimAmount, ClaimStatus (Approved/Denied)
 
+-schema
+- <img width="1381" height="952" alt="schema" src="https://github.com/user-attachments/assets/11289021-d09a-412c-a48d-5c2887fa9268" />
+
+
 1. Executive Summary
 Below is the output of the KPI query showing total claims and approval rates:
 ![KPI Results](kpi_results.png)
