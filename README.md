@@ -25,9 +25,11 @@ The project uses a dataset named `enhanced_health_insurance_claims.csv`. It cont
 
 
 1. Executive Summary
-Below is the output of the KPI query showing total claims and approval rates
-Screenshots/kpi_results.png
+Below is the output of the KPI query showing total claims and approval rates:
+<img width="1498" height="925" alt="kpi_results" src="https://github.com/user-attachments/assets/b194c5e0-2c3c-4087-b648-3160e558f113" />
+
 
 3. Advanced Ranking
 This screenshot shows how we ranked claims by amount within each location:
-!Screenshots/rank_results.png
+<img width="1503" height="917" alt="rank_results" src="https://github.com/user-attachments/assets/ac5bee0c-51aa-425a-bcd8-0727e3dafc87" />
+
