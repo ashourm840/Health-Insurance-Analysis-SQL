@@ -19,3 +19,11 @@ The project uses a dataset named `enhanced_health_insurance_claims.csv`. It cont
 - Demographics: Age, PatientID.
 - Provider Info:Specialty, Location.
 - Financials: ClaimAmount, ClaimStatus (Approved/Denied)
+
+1. Executive Summary
+Below is the output of the KPI query showing total claims and approval rates:
+![KPI Results](kpi_results.png)
+
+2. Advanced Ranking
+This screenshot shows how we ranked claims by amount within each location:
+![Ranking Results](rank_results.png)
