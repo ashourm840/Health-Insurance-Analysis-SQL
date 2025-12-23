@@ -13,3 +13,9 @@ This project focuses on analyzing a healthcare insurance dataset to extract mean
 1. Create the table using the schema provided in `insurance_analysis_project.sql`.
 2. Import your dataset (CSV).
 3. Execute the queries to see the insights.
+
+Dataset details
+The project uses a dataset named `enhanced_health_insurance_claims.csv`. It contains:
+- Demographics: Age, PatientID.
+- Provider Info:Specialty, Location.
+- Financials: ClaimAmount, ClaimStatus (Approved/Denied)
